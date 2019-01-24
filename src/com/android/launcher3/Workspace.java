@@ -58,8 +58,8 @@ import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.widget.Toast;
 
-import com.android.internal.util.du.ActionUtils;
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.scorpion.ActionUtils;
+import com.android.internal.util.scorpion.Utils;
 
 import com.android.launcher3.Launcher.LauncherOverlay;
 import com.android.launcher3.LauncherAppWidgetHost.ProviderChangedListener;
